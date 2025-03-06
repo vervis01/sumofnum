@@ -1,4 +1,4 @@
-a=20
+a= 60
 b = 40
 print("sum of the a and b is ",a+b)
 
